@@ -1,0 +1,23 @@
+JoinedTeam: "{0} has joined the {1} party."
+
+Teams: {
+	0: gray
+	1: orange
+	2: teal
+	3: rose
+	4: black
+	5: lime
+	6: wood
+	7: aquamarine
+}
+
+Configs: {
+	TeamConfig: {
+		DisplayName: Team Config
+
+		TeamPairs: {
+			Label: Team Pairs
+			Tooltip: ""
+		}
+	}
+}

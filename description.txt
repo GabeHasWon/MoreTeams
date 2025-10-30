@@ -1,0 +1,8 @@
+--- More Teams ---
+by GabeHasWon
+commissioned by August
+
+Adds in 8 more teams in multiplayer: the Gray, Orange, Teal, Rose, Black, Lime, Wood, and Aquamarine teams.
+They behave the same as vanilla teams.
+
+The amount of added teams is modifiable, from +2 to +8.
