@@ -7,4 +7,4 @@ They behave the same as vanilla teams.
 
 The amount of added teams is modifiable, from +2 to +8.
 
-GitHub: https://github.com/GabeHasWon/MoreTeams/settings
+GitHub: https://github.com/GabeHasWon/MoreTeams
