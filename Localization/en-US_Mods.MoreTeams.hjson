@@ -9,6 +9,8 @@ Teams: {
 	5: lime
 	6: wood
 	7: aquamarine
+	8: purple
+	9: ivory
 }
 
 Configs: {
@@ -17,7 +19,7 @@ Configs: {
 
 		TeamPairs: {
 			Label: Team Pairs
-			Tooltip: ""
+			Tooltip: How many team pairs to add. A value of 2 would add in 4 teams.
 		}
 	}
 }

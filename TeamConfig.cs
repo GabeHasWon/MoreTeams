@@ -8,7 +8,7 @@ internal class TeamConfig : ModConfig
 {
     public override ConfigScope Mode => ConfigScope.ServerSide;
 
-    [Range(1, 4)]
-    [DefaultValue(4)]
+    [Range(1, 5)]
+    [DefaultValue(5)]
     public int TeamPairs { get; set; }
 }

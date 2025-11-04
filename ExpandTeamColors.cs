@@ -13,8 +13,10 @@ internal class ExpandTeamColors : ModSystem
     public static readonly Color Lime = new(159, 255, 66);
     public static readonly Color Brown = new(173, 115, 84);
     public static readonly Color Aquamarine = new(44, 140, 158);
+    public static readonly Color Purple = new(143, 26, 239);
+    public static readonly Color Ivory = new(178, 181, 171);
 
-    public override void ResizeArrays() => Main.teamColor = [.. Main.teamColor, Gray, Orange, Teal, Pink, Black, Lime, Brown, Aquamarine];
+    public override void ResizeArrays() => Main.teamColor = [.. Main.teamColor, Gray, Orange, Teal, Pink, Black, Lime, Brown, Aquamarine, Purple, Ivory];
 
     public override void Unload()
     {
